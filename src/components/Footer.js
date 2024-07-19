@@ -17,13 +17,13 @@ function Footer() {
           <h3></h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3> Harsh Dhingra </h3>
+          <h3> Karan Malhotra </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Harsh-Dhingra"
+                href="https://github.com/Vagueken"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -34,7 +34,7 @@ function Footer() {
            
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/harsh-dhingra/"
+                href="https://www.linkedin.com/in/kmalhotra657/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
